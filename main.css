@@ -1,0 +1,25 @@
+img {
+  width: 25px;
+  height: 25px;
+}
+
+img.solo-center {
+  display: block;
+  margin: 0 auto;
+}
+
+img.duo-center {
+  margin: 0 auto;
+}
+
+.alpha-char {
+  width: 150px;
+  text-align: center;
+  display: inline-block;
+  margin-right: 24px;
+}
+
+span {
+  width: 25px;
+  padding-bottom: 6px;
+}
