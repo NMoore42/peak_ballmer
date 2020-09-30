@@ -864,11 +864,11 @@ const alphabet = {
   `,
   " ": `
   <div class="alpha-char">
-  <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
-  <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
-  <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
-  <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
-  <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
 
     <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
     <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
@@ -897,7 +897,7 @@ const alphabet = {
   `,
   "!": `
     <div class="alpha-char">
-    <img style="{margin-top: 0px}" src="https://emoji.slack-edge.com/T02FZRG24/ballmer-hype/63441c92121a7fe5.gif" alt="">
+      <img style="{margin-top: 0px}" src="https://emoji.slack-edge.com/T02FZRG24/ballmer-hype/63441c92121a7fe5.gif" alt="">
       <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
       <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
       <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
@@ -924,6 +924,72 @@ const alphabet = {
       <img src="https://emoji.slack-edge.com/T02FZRG24/ballmer-hype/63441c92121a7fe5.gif" alt="">
       <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
       <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    </div>
+  `,
+  ".": `
+    <div class="alpha-char">
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+
+      <img src="https://emoji.slack-edge.com/T02FZRG24/ballmer-hype/63441c92121a7fe5.gif" alt="">
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    </div>
+  `,
+  "?": `
+    <div class="alpha-char">
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <img src="https://emoji.slack-edge.com/T02FZRG24/ballmer-hype/63441c92121a7fe5.gif" alt="">
+      <img src="https://emoji.slack-edge.com/T02FZRG24/ballmer-hype/63441c92121a7fe5.gif" alt="">
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <img src="https://emoji.slack-edge.com/T02FZRG24/ballmer-hype/63441c92121a7fe5.gif" alt="">
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <img src="https://emoji.slack-edge.com/T02FZRG24/ballmer-hype/63441c92121a7fe5.gif" alt="">
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+      <img src="https://emoji.slack-edge.com/T02FZRG24/ballmer-hype/63441c92121a7fe5.gif" alt="">
       <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
       <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
     </div>
