@@ -9,6 +9,12 @@ function appendLetter() {
   userInput.split("").forEach( char => textContainer.innerHTML += alphabet[char.toLowerCase()] || "" )
 }
 
+window.onload = function() {
+  Particles.init({
+    selector: '.background'
+  });
+};
+
 
 //Event Listeners
 userInputField.addEventListener("input", appendLetter)
