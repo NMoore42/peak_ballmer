@@ -144,7 +144,7 @@ simulate(
 					var s = particle.size;
 					var o = 1 - (particle.life / MAX_LIFE);
 
-					this.paint.circle(p.x, p.y, s, 'rgba(255,255,255,' + o +')');
+					this.paint.circle(p.x, p.y, s, 'rgba(0,0,225,' + o +')');
 					this.paint.circle(p.x, p.y, s + 1.5, 'rgba(231,244,255,' + (o * .25) + ')');
 
 					// extra

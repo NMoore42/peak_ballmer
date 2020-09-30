@@ -18,23 +18,44 @@ img {
   padding-bottom: 6px;
 }
 
+#text-container {
+  margin: 50px auto;
+  text-align: center;
+}
+
+/* CSS FOR PARTICLE BACKGROUND */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+
 /* CSS FOR USER INPUT */
 
 
 input {
 
-	border:2px solid rgba(255,255,255,.5);
+	border:2px solid rgba(117, 117, 117,.5);
 	font-size:1.75em;
 	padding:.25em .5em .3125em;
-	color:rgba(255,255,255,.5);
+	color:rgba(117, 117, 117,.5);
 	border-radius:.25em;
 	background:transparent;
 	transition:all .100s;
 
 	&:focus{
 		outline:none;
-		color:rgba(255,255,255,.75);
-		border-color:rgba(255,255,255,.75);
+		color:rgba(0, 0, 225,.75);
+		border-color:rgba(0, 0, 225,.75);
 	}
 
 	&.keyup {
@@ -59,7 +80,7 @@ input {
 	font-family: "Arial Rounded MT Bold","Helvetica Rounded",Arial,sans-serif;
 }
 
-$placeholder-color:rgba(255,255,255,.5);
+$placeholder-color:rgba(0, 0, 225,.5);
 
 ::-webkit-input-placeholder {
 	color:$placeholder-color;
@@ -94,7 +115,7 @@ html,body {
 }
 
 html {
-	background:#333 url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/68397/forest-fly-agaric-fog-moss-fliegenpilz.jpg) no-repeat center bottom;
+	/* background:#333 url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/68397/forest-fly-agaric-fog-moss-fliegenpilz.jpg) no-repeat center bottom; */
 	background-size:cover;
 }
 
