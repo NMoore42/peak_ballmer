@@ -5,16 +5,16 @@ const userInputField = document.getElementById("user-input");
 //Functions
 function appendLetter() {
   textContainer.innerHTML = ""
-  userInput = userInputField.value
-  userInput.split("").forEach( char => textContainer.innerHTML += alphabet[char.toLowerCase()] || "" )
+  userInput = userInputField.value.toLowerCase()
+  userInput.split("").forEach( char => textContainer.innerHTML += alphabet[char] || "" )
 }
 
-window.onload = function() {
+function initParticles() {
   Particles.init({
     selector: '.background'
   });
-};
-
+}
 
 //Event Listeners
 userInputField.addEventListener("input", appendLetter)
+window.addEventListener("load", initParticles)
