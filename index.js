@@ -6,8 +6,9 @@ const userInputField = document.getElementById("user-input");
 function appendLetter() {
   textContainer.innerHTML = ""
   userInput = userInputField.value
-  userInput.split("").forEach( char => textContainer.innerHTML += alphabet[char.toLowerCase()])
+  userInput.split("").forEach( char => textContainer.innerHTML += alphabet[char.toLowerCase()] || "" )
 }
+
 
 //Event Listeners
 userInputField.addEventListener("input", appendLetter)
