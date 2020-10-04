@@ -18,3 +18,5 @@ function initParticles() {
 //Event Listeners
 userInputField.addEventListener("input", appendLetter)
 window.addEventListener("load", initParticles)
+
+console.log("Welcome Developers, Developers, Developers!")

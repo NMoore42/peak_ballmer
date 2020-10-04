@@ -1,4 +1,4 @@
-console.clear();
+// console.clear();
 
 var MAX_LIFE = 50;
 var canvas = document.querySelector('canvas');
